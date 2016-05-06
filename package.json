@@ -1,0 +1,29 @@
+{
+  "name": "hackernoon",
+  "version": "1.0.0",
+  "description": "Hackernoon articles on kindle",
+  "main": "app.js",
+  "dependencies": {
+    "feed-read": "^0.0.1",
+    "html-to-pdf": "^0.1.11",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahilnarain/kindle-hackernoon.git"
+  },
+  "keywords": [
+    "hackernoon",
+    "kindle"
+  ],
+  "author": "Sahil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahilnarain/kindle-hackernoon/issues"
+  },
+  "homepage": "https://github.com/sahilnarain/kindle-hackernoon#readme"
+}
